@@ -1,4 +1,4 @@
-# bikesharing
+![bike-sharing](https://user-images.githubusercontent.com/78666055/120810779-57091780-c519-11eb-859f-4ce16632fab5.png)
 
 ## Project Overview
 
