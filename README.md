@@ -24,9 +24,8 @@ https://public.tableau.com/views/Bike_Sharing_Challenge_16223864067920/NYCBikeSh
 ![Checkout_Times_for_Users](https://user-images.githubusercontent.com/78666055/120805487-de538c80-c513-11eb-8a5d-e18c3292152b.png)
 
 Overall, the length of trip duration ranges from 0 to about 40 minutes with the highest number of trips taking about 5 minutes. A more detailed view can be obtained by selecting any specific hour or hours in the day.
-&nbsp;
-&nbsp;
-
+\
+\
 
 
 ![Checkout_Times_for_Gender](https://user-images.githubusercontent.com/78666055/120805499-e14e7d00-c513-11eb-8b52-eaef109363b3.png)
