@@ -68,5 +68,5 @@ The visualizations show that it would be beneficial to get as many subscribers a
 Since most trips occur during work commute and on weekends it would definitely help to setup routes that are in the path of business places.
 
 ### Suggestion of additional analysis that would be helpful:
-1.  Include more data so that month over month and year over year can be compared, expecially to trend as season changes.
-2.  Include weather data to see how a rainy or very hot day affects usage.
+1.  Include more data so that month over month and year over year can be compared, especially to trend as season changes.
+2.  Include weather data to see how a rain, snow or very hot/cold temperatures affects usage.
