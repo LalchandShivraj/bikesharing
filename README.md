@@ -4,12 +4,12 @@
 # Project Overview
 Kate has this idea of creating a Bike Sharing business in her hometown of Des Moinres as she experienced in New York City. She has a potential investor, and she needs to build a proposal on actual data from the New York Citi Bike dataset to analyse and prove the feasibility.
 
-## Task at Hand
+### Task at Hand
 1.  Use Jupyter Notebook to change the Trip Duration field to the Datetime format.
 2.  Create Visualizations for the Trip Analysis
 3.  Create a Story and Report for the Final Presentation
 
-## Resources
+### Resources
 1.  New York Citi Bike dataset - 201908-citibike-tripdata-new.csv
 2.  Jupyter Notebook, GitHub and Tableau
 
@@ -89,7 +89,7 @@ The Bike Maintenance Dashboard was included to show the bike utilisation and the
 The visualizations show that it would be beneficial to get as many subscribers as possible to the program as they use it more than others. A study of the population as it relates to gender and age may be helpful as it shows young riders take longer trips and a very high percentage of riders are male.
 Since most trips occur during work commute and on weekends it would definitely help to setup routes that are in the path of business places.
 
-### Suggestion of additional analysis that would be helpful:
+## Suggestion of additional analysis that would be helpful:
 1.  Include more data so that month over month and year over year can be compared, especially to trend as season changes.
 2.  Include weather data to see how a rain, snow or very hot/cold temperatures affects usage.
 3.  Cost per bike and charges per trip (based on time) would certainly help in building a strong case.
