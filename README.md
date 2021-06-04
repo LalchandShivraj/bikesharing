@@ -14,7 +14,7 @@ Kate has this idea of creating a Bike Sharing business in her hometown of Des Mo
 2.  Jupyter Notebook, GitHub and Tableau
 
 # Results
-The Tableau story can be accessed via. the link below. Following that, are screen prints of the visualizations with description below each.
+The Tableau Story can be accessed via. the link below. Following that, are screen prints of the visualizations with description below each. These descriptions provide insight/interpretation of the charts. The summary contains some additional analysis.
 
 ### Below is the link to the Tableau Story:
 https://public.tableau.com/views/Bike_Sharing_Challenge_16223864067920/NYCBikeSharingStory?:language=en-US&:display_count=n&:origin=viz_share_link
@@ -92,3 +92,4 @@ Since most trips occur during work commute and on weekends it would definitely h
 ### Suggestion of additional analysis that would be helpful:
 1.  Include more data so that month over month and year over year can be compared, especially to trend as season changes.
 2.  Include weather data to see how a rain, snow or very hot/cold temperatures affects usage.
+3.  Cost per bike and charges per trip (based on time) would certainly help in building a strong case.
