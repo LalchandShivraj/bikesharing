@@ -33,37 +33,55 @@ Overall, the length of trip duration ranges from 0 to about 40 minutes with the 
 ![Checkout_Times_for_Gender](https://user-images.githubusercontent.com/78666055/120805499-e14e7d00-c513-11eb-8b52-eaef109363b3.png)
 
 As can be seen, Male riders dominate the ridership. So, it is very important to know the breakdown of gender in a new location and, also try to make sure the gender information is filled in to get the unknown reduced further.
-  
+<br>
+<br>
+<br>
+<br>  
   
 
 ![Trips_by_Weekday_per_Hour](https://user-images.githubusercontent.com/78666055/120805537-ec091200-c513-11eb-805c-0fbe185c4945.png)
 
 This heat map provides an excellent analysis of which days and the hours in the days when bike usage is at its highest and lowest. On the weekends and especially Saturdays, from 8AM to 8PM has a continuous flow of riders. On weekdays, the usage is more concentrated to 6AM to 9AM and then from 4PM to 8PM.  
-
+<br>
+<br>
+<br>
+<br>
 
 
 ![Trips_by_Gender_Weekday_per_Hour](https://user-images.githubusercontent.com/78666055/120805561-ef040280-c513-11eb-8d24-f1e9a82c9791.png)
 
 This heat map shows similar breakdown in terms of trips for each day and per hour as the previous map. However, this is further divided to re-emphasise that a very high percentage of riders are male.  
-
+<br>
+<br>
+<br>
+<br>
 
 
 ![User_Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/78666055/120805581-f3c8b680-c513-11eb-8824-3c64af38b2d4.png)
 
 This heat map brings forth a very important point and that is: Riders that are Subscribers to the program are more likely to participate. So, for this type of business it would help to somehow get as many people as possible subscribing.  
-
+<br>
+<br>
+<br>
+<br>
 
 
 ![Average_Trip_Duration](https://user-images.githubusercontent.com/78666055/120805612-fcb98800-c513-11eb-914b-df7fb45a7c39.png)
 
 Even though the youngest riders have a higher average trip duration, the overall average is fairly constant for up to at least 50 years old. At any new location it would be helpful to know the population average age to make sure there is a significant population in this age range.  
-
+<br>
+<br>
+<br>
+<br>
 
 
 ![BIke_Maintenance_Dashboard](https://user-images.githubusercontent.com/78666055/120805641-03e09600-c514-11eb-94a1-28a84b7c644f.png)
 
 The Bike Maintenance Dashboard was included to show the bike utilisation and the number of trips for each bike to build the repairs and maintenance schedule. The low usage time from previous charts can be the maintenance window.  
-
+<br>
+<br>
+<br>
+<br>
 
 
 # Summary
