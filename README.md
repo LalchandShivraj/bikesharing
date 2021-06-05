@@ -78,7 +78,7 @@ Even though the youngest riders have a higher average trip duration, the overall
 
 ![BIke_Maintenance_Dashboard](https://user-images.githubusercontent.com/78666055/120805641-03e09600-c514-11eb-94a1-28a84b7c644f.png)
 
-The Bike Maintenance Dashboard was included to show the bike utilisation and the number of trips for each bike to build the repairs and maintenance schedule. The low usage time from previous charts can be the maintenance window.  
+The Bike Maintenance Dashboard was included to show the bike utilisation and the number of trips for each bike to build the repairs and maintenance schedule. The low usage time (between 12AM and 5AM) from previous charts can be the maintenance window.  
 <br>
 <br>
 <br>
